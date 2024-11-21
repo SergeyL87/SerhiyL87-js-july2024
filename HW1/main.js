@@ -28,6 +28,9 @@ console.log(bool1);
 let bool2 = false;
 console.log(bool2);
 
+let x= 1;
+console.log(x);
+
 
 
 // - Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ.
@@ -59,4 +62,5 @@ console.log(typeof c);
 let name = prompt()
 let name2 = prompt()
 let date = prompt()
-console.log(name+' '+name2+' '+date)
+let data=(name+' '+name2+' '+date);
+console.log(data);

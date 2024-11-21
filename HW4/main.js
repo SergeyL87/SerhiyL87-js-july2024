@@ -12,7 +12,7 @@
 // #ETGAxbEn8l
 // - створити функцію яка обчислює та повертає площу кола з радіусом r
 // function squareCircl(sideA,sideB){
-//     if (sideA>0 && sideB>0){
+//     if (sideA,sideB>0){
 //         return sideA*sideB*sideB;
 //     }
 //     return 0;
@@ -35,19 +35,11 @@
 // #SIdMd0hQ
 // - створити функцію яка приймає масив та виводить кожен його елемент
 //
-// let masX=[true,'hello',1,3];
-// let masY=[false,'goodday',4,8]
-// let masU=[8,9,102,5,78]
-//
-// function masivPrinter (mas){
-//     for (const masElement of mas) {
-//         console.log(masElement)
+// function mass(array) {
+//     for (const item of array) {
+//         console.log(item);
 //     }
 // }
-//
-// masivPrinter(masX);
-// masivPrinter(masY);
-// masivPrinter(masU);
 
 // // #59g0IsA
 // - створити функцію яка створює параграф з текстом та виводить його через document.write. Текст задати через аргумент
@@ -58,13 +50,29 @@
 // par('HI!');
 // par('world')
 
-
 // #hOL6126
 // - створити функцію яка створює ul з трьома елементами li та виводить його через document.write. Текст li задати через аргумент всім однаковий
-
+// function ul(text) {
+//     document.write(`<ul>
+//     <li>${text}</li>
+//     <li>${text}</li>
+//     <li>${text}</li>
+//     <li>${text}</li>
+//     </ul>`)
+// }
+// ul('hello okten')
 
 // #0Kxco1edSN
 // - створити функцію яка створює ul з  елементами li. Текст li задати через аргумент всім однаковий. Кількість li визначається другим аргументом, який є числовим (тут використовувати цикл) та виводить його через document.write
+
+function textplus(text,counter) {
+    for (let i = 0; i < counter; i++) {
+       document.write(`<ul>`);
+       document.write(`<li>${text}</li>`);
+       document.write(`</ul>`);
+    }
+}
+textplus('okte',20)
 
 
 // #gEFoxMMO

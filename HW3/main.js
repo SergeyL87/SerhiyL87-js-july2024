@@ -7,13 +7,7 @@
 // }
 
 
-// #TYj7ncx
-// - За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом і індексом всередині
-// let someText =['text1',2,3,4,5,6,7,8,9,'text10']
-// for (let i = 0; i < someText.length; i++) {
-//     const someTextElement = someText[i];
-//     document.write(`<div>${someTextElement}</div>`)
-// }
+
 
 // #uzkt71dp
 // - За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом всередині.
@@ -30,13 +24,14 @@
 //     #OeT7t3uUMFi
 // - За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом і індексом всередині.
 
-// let someText =[1,2,3,4,5,7,7,5,7,6,'drive',9,46,151,558,54,54,215,15,25,515,15,15]
+// let text =[1,2,3,4,5,7,7,5,7,6,'drive',9,46,151,558,54,54,215,15,25,515,15,15];
 // let i =0;
-// while (i<20)
-// {
-//     document.write(`<div><h1>${someText}</h1></div>`);
-//     i++;
+// while (i<20){
+//     document.write(`<h1>text - ${text[i]}</h1>`)
+// i++;
 // }
+
+
 
 
 //     #vLSZKMlO
@@ -61,14 +56,11 @@
 //
 // -----------------------------------------------
 
-let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
-for (const listOfItem of listOfItems) {
-document.write(`<ul>
-    <li>${listOfItem}</li>
-</ul>`);
-}
-
-
+// let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
+// for (const listOfItem of listOfItems) {
+// document.write (<li>${listOfItem}</li>`);
+// }
+    
 //     #Hdjws7E
 // Використовуючи данні з масиву, за допомоги document.write та циклу
 // побудувати структуру по шаблону
@@ -104,8 +96,8 @@ document.write(`<ul>
 // </div>
 // Замість TITLE PRICE IMAGE - підставити відповідні поля з об'єкту
 //
-
-
+//
+//
 // let products = [
 //     {
 //         title: 'milk',
