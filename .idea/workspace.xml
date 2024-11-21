@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d677ec64-59dd-4f32-a937-d562fc2a7f79" name="Changes" comment="HW2">
-      <change afterPath="$PROJECT_DIR$/HW3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW3/main.js" afterDir="false" />
+    <list default="true" id="d677ec64-59dd-4f32-a937-d562fc2a7f79" name="Changes" comment="HW3">
+      <change afterPath="$PROJECT_DIR$/HW4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW4/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +50,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\JS-Serhiy87-july2024\HW1" />
@@ -93,7 +98,17 @@
       <workItem from="1723401874491" duration="8655000" />
       <workItem from="1723543575629" duration="46000" />
       <workItem from="1723565308739" duration="4033000" />
-      <workItem from="1723572684785" duration="7444000" />
+      <workItem from="1723572684785" duration="7577000" />
+      <workItem from="1723834524990" duration="1303000" />
+      <workItem from="1724691008093" duration="2427000" />
+      <workItem from="1724762918401" duration="1167000" />
+      <workItem from="1724824943567" duration="6723000" />
+      <workItem from="1724918084758" duration="3220000" />
+      <workItem from="1725362532539" duration="1116000" />
+      <workItem from="1725434610385" duration="3045000" />
+      <workItem from="1725549406753" duration="623000" />
+      <workItem from="1725607758567" duration="6415000" />
+      <workItem from="1727696569907" duration="236000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <option name="closed" value="true" />
@@ -119,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723410297490</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW3">
+      <option name="closed" value="true" />
+      <created>1723580209049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723580209049</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +163,7 @@
     <MESSAGE value="new" />
     <MESSAGE value="07/08" />
     <MESSAGE value="HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
 </project>
